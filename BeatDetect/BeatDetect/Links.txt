@@ -1,0 +1,10 @@
+﻿http://www.owlnet.rice.edu/~elec301/Projects01/beat_sync/beatalgo.html
+
+http://segfaultlabs.com/blog/post/sound-equalizer-fmod-opengl/
+
+http://www.flipcode.com/misc/BeatDetectionAlgorithms.pdf
+
+http://www.torquepowered.com/community/blogs/view/11600
+
+http://www.mathdotnet.com/downloads/Iridium-2008-8-16-470.ashx
+
